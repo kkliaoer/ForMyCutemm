@@ -1,0 +1,27 @@
+<view class="box">
+    <navigator class="header" >
+        <image src="../../images/hx.jpg" mode="aspectFit" style="height: 50px"/>
+        <text class="header_title">目录</text>
+        <image src="../../images/sb.jpg" mode="aspectFit" style="height: 50px"/>
+    </navigator>
+    <view class="blk"></view>
+    <navigator class="cont first" url="../page1/page1" open-type="navigate">
+        <text class="tit">第一章 韩信 ... ... ... ... ... ... ... ... ... ... ...  1\n</text>
+        <text class="in">一、野辅联动，一死一送</text>
+    </navigator>
+    <view class="blk"></view>
+    <navigator class="cont second" url="../page2/page2" open-type="navigate">
+        <text class="tit">第二章 Math... ... ... ... ... ... ... ... ... ... ... 2\n</text>
+        <text class="in">一、萌妹ghs炒鸡腻害</text>
+    </navigator>
+    <view class="blk"></view>
+    <navigator class="cont third" url="../page3/page3" open-type="navigate">
+        <text class="tit">第三章 “你毛没它多” “我可以长”..3\n</text>
+        <text class="in">一、《走进科学之探索萌学家的内心世界》</text>
+    </navigator>
+    <view class="blk"></view>
+    <navigator class="cont third" url="../page4/page4" open-type="navigate">
+        <text class="tit">第四章 谢谢你一直和我玩辣！... ... ... ...4\n</text>
+        <text class="in">一、“你掐我！” “你踢我！”</text>
+    </navigator>
+</view>

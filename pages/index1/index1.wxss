@@ -1,0 +1,24 @@
+/* pages/index1/index1.wxss */
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40%;
+}
+.text{
+    display: flex;
+    padding-left: 30%;
+    color: dimgray;
+}
+.se{
+    padding-left: 40%;
+}
+.blank{
+    height: 20px;
+}
+/* image{
+    align-self: center
+} */
+.nav{
+    height: 800px;
+    width: 100%;
+}

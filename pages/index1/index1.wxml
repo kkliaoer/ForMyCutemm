@@ -1,0 +1,9 @@
+<navigator class="nav" url="../index2/index2" open-type="navigate">
+    <view class="box">
+        <view class="text">生日快乐!</view>
+        <view class="blank"></view>
+        <image src="../../images/srdg.png" mode="aspectFit" style="height: 30px" />
+        <view class="blank"></view>
+        <view class="text se">——献给我亲爱的朋友萌妹</view>
+    </view>
+</navigator>

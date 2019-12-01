@@ -1,0 +1,32 @@
+/* pages/index2/index2.wxss */
+.box{
+    color: dimgray;
+}
+.header{
+    padding-left: 30%;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-size: 25px;
+}
+image{
+    width: 60px;
+}
+.tit{
+    font-size: 18px;
+    padding-left: 10px;
+}
+.in{
+    padding-left: 25px;
+}
+
+.cont{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: dotted 1px gray; 
+    border-radius: 20px; 
+}
+.blk{
+    height: 20px;
+}
