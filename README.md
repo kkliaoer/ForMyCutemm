@@ -16,4 +16,4 @@ tip5:
 时间预算准确的话，我朋友马上会收到物流的短信，就可以去拿他的礼物辣！
 
 下面是这个小程序 ForMyCutemm 给我可爱的萌妹
-![image]()
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/1.png)
