@@ -17,17 +17,17 @@ tip5:<br>
 <br>
 下面是这个小程序 ForMyCutemm 给我可爱的萌妹<br>
 <br>
-第一页：一张被p过的高数封面，我朋友超爱数学而且数学也很厉害！
-![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/1.png)
-第二页：祝他生日快乐~
-![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/2.png)
-第三页：模仿高数课本弄了个目录，内容都是我们之间一些有意思的梗。目录两旁的人物是《王者荣耀》里的韩信和孙膑。我和他是玩游戏认识的，他玩韩信我玩孙膑。
-![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/3.png)
-中间几页就略过辣，直接到最后一页。这是一道选择题，选出了正确选项会弹出提示哦！
-![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/4.png)
-这是弹出的提示，告诉我朋友他礼物快到了！
-![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/5.png)
-
+第一页：一张被p过的高数封面，我朋友超爱数学而且数学也很厉害！<br>
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/1.png)<br>
+第二页：祝他生日快乐~<br>
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/2.png)<br>
+第三页：模仿高数课本弄了个目录，内容都是我们之间一些有意思的梗。目录两旁的人物是《王者荣耀》里的韩信和孙膑。我和他是玩游戏认识的，他玩韩信我玩孙膑。<br>
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/3.png)<br>
+中间几页就略过辣，直接到最后一页。这是一道选择题，选出了正确选项会弹出提示哦！<br>
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/4.png)<br>
+这是弹出的提示，告诉我朋友他礼物快到了！<br>
+![image](https://github.com/kkliaoer/ForMyCutemm/blob/master/jietu2/5.png)<br>
+<br>
 这就是我给我朋友的生日惊喜，他超开心，我也超有成就感！
 
 
